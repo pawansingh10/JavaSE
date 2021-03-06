@@ -40,3 +40,21 @@ Generic Training Of Java
 |Day 3| Practice Day|
 |Day 4| Integrated Mock|
 |Day 5| Actual Assessment|
+
+
+###### Common Streams Of Infosys
+
+|#    |  FA-1  | FA-2|   FA-3|
+|-----|---------|------|------|
+|Java Angular | Java | SpringBoot| Angular|
+|Java React | Java  | SpringBoot| React|
+|Mean Stack| HTML, CSS, JavaScript, BootStrap| NodeJs, MongoDB, Express| Angular|
+|Mern Stack| HTML, CSS, JavaScript, BootStrap| NodeJs, MongoDB, Express| React|
+|SAP(ABAP)| Creating Table, Modularization, Function Module | Report, Smart-Form | Dialogue Prog & Web Dynpro, Advance Prog|
+|BigData/BI| hadoop, Advance SQL| Java(Basics) & Power-BI| PIG, HIVE, HBase|
+|MS .NET| C#, SQL-Server using ado .NET| ado.NET, EF Core| Angular, HTML, CSS|
+|IVS Devops| Java | Selenium Basic, Selenium Advance, Cucumber BDD| Soap UI, rest Assured, UNIX|
+|IVS DWT| UNIX, Advance-SQL| Informatica| Big Data|
+|IMS DB| UNIX Shell, Scripting| MS SQL Server| Oracle 12C|
+
+
