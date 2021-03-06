@@ -25,6 +25,7 @@ Generic Training Of Java
 
 ### Data Structure & Algorithms Using Java-I
 |      |                         |
+|------|-------------------------|
 |Day 1| Array, Linked List|
 |Day 2| Stack, Queue, Generics, Collection Frameworks-ArrayList,LinkedList|
 |Day 3| Collection Framework- Set, Hashmap|
